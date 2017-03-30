@@ -45,6 +45,9 @@
         },
         "cordova-plugin-file-transfer": {
             "PACKAGE_NAME": "com.skyexplorer.tellyou"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.skyexplorer.tellyou"
         }
     },
     "dependent_plugins": {
